@@ -1,4 +1,4 @@
-This project is built with .
+This project is built with 
 
 - Vite
 - TypeScript
