@@ -123,7 +123,7 @@ const AssetDetail = () => {
             <p className="text-xl">{formatPrice(asset.marketCapUsd)}</p>
           </div>
           <div className="border-4 border-brutal-black p-4">
-            <h3 className="font-bold mb-2">24h Volume</h3>
+            <h3 className="font-bold mb-2">24H Volume</h3>
             <p className="text-xl">{formatPrice(asset.volumeUsd24Hr)}</p>
           </div>
           <div className="border-4 border-brutal-black p-4">
