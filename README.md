@@ -1,6 +1,6 @@
 This project is built with 
 
-- Vite
+- Vite.js
 - TypeScript
 - React
 - shadcn-ui
