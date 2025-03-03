@@ -23,7 +23,7 @@ const AssetsList = ({ assets }: AssetsListProps) => {
             <th className="p-4 text-left">Rank</th>
             <th className="p-4 text-left">Name</th>
             <th className="p-4 text-right">Price</th>
-            <th className="p-4 text-right">24H Change</th>
+            <th className="p-4 text-right">24h Change</th>
             <th className="p-4 text-right">Market Cap</th>
           </tr>
         </thead>
